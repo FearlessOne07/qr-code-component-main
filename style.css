@@ -16,6 +16,14 @@ body {
     justify-content: center;
 }
 
+main {
+    width: 100%;
+    height: inherit;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .box {
     box-shadow: 0 0 20px hsla(0, 0%, 0%, 0.259);
     background-color: #fff;
